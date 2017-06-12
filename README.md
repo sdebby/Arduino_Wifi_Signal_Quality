@@ -2,7 +2,7 @@
 
 It is nice to have an independed device measuring WIFI signal in home.
 
-After long internet search for the correct I2C LCD librery using this librery:
+After long internet search for the correct I2C LCD librery using this fdebrabander librery :
 [20X04LCD_Librery](https://github.com/fdebrabander/Arduino-LiquidCrystal-I2C-library)
 
 # Hardware
