@@ -1,4 +1,4 @@
-## Arduino_Wifi_Signal_Quality
+# Arduino Wifi Signal Quality
 
 It is nice to have an independed device measuring WIFI signal in home.
 
