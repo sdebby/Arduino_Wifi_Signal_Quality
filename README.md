@@ -12,3 +12,6 @@ After long internet search for the correct I2C LCD librery using this fdebraband
 
 # Schematics
 ![N|Schemaic image](https://github.com/sdebby/Arduino_Wifi_Signal_Quality/blob/master/WiFi_Signal_ESP8622_v0_bb.png)
+
+# Video
+[![YT_Video](https://img.youtube.com/vi/CxdEGvhqG50/0.jpg)](https://youtu.be/CxdEGvhqG50)
